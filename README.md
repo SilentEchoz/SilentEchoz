@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SilentEchoz
+- 👀 I’m interested in creating games and web development
+- 🌱 I’m currently learning Python, HTML, and CSS
