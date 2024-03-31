@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SilentEchoz
 - 👀 I’m interested in creating games and programming.
-- 🌱 I’m currently studying Python, SQL, HTML, and CSS
+- 🌱 I’m currently studying Python, HTML, and CSS
